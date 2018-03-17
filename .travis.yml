@@ -3,7 +3,7 @@ dist: trusty
 
 install:
   - sudo apt-get install python
-  - sudo add-apt-repository ppa:mc3man/trusty-media
+  - sudo add-apt-repository ppa:mc3man/trusty-media -y
   - sudo apt-get update
   - sudo apt-get install ffmpeg gstreamer0.10-ffmpeg
 

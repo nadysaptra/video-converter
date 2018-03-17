@@ -1,4 +1,4 @@
-# video-converter https://travis-ci.org/nadysaptra/video-converter.svg?branch=master
+# video-converter [![Build Status](https://travis-ci.org/nadysaptra/video-converter.svg?branch=master)](https://travis-ci.org/nadysaptra/video-converter)
 Using it will convert your files to smaller size
 
 # requirements

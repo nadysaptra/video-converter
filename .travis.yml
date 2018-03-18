@@ -9,3 +9,6 @@ install:
 
 script:
   - python convert.py
+
+after_script:
+  - rm -drf files/convert

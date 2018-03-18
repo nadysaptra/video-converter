@@ -8,4 +8,4 @@ install:
   - sudo apt-get install ffmpeg gstreamer0.10-ffmpeg
 
 script:
-#  - python convert.py
+  - python convert.py
